@@ -1,0 +1,1 @@
+# for tesla, base URL is ...tesla.com/careers/search/. query parameters include "region", "department", "country" (& "location"), "query"
